@@ -1,0 +1,1 @@
+# spring-ioc-dependency-beanScope
